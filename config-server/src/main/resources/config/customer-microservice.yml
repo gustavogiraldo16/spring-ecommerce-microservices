@@ -1,0 +1,10 @@
+data:
+  mongodb:
+    host: localhost
+    port: 27017
+    database: customerdb
+    username: root
+    password: pass
+    authentication-database: admin
+server:
+  port: 8091
